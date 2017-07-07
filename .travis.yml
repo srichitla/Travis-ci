@@ -2,4 +2,4 @@ language: python
 python:
   - "2.7"
 install: pip install requests==2.9.1
-script: python wrapper.py -n App_Name.apk -appId 1719e2a26211816efdc1f2be695e7867 -token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNyaWthbnRoIiwib3JpZ19pYXQiOjE0OTk0MTQ0OTYsInVzZXJfaWQiOjE3LCJlbWFpbCI6InNyaWthbnRoLmNoaXRsYUBhY2NlbnR1cmUuY29tIiwiZXhwIjoxNTA1ODk0NDk2fQ.bS-UJLR_JY3HgXpGRZ8x-bCdTLoNecp9jBXYbcRhgdk
+script: python wrapper.py -n Cell_it_v1.0.6_apkpure.com.apk -appId 1719e2a26211816efdc1f2be695e7867 -token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNyaWthbnRoIiwib3JpZ19pYXQiOjE0OTk0MTQ0OTYsInVzZXJfaWQiOjE3LCJlbWFpbCI6InNyaWthbnRoLmNoaXRsYUBhY2NlbnR1cmUuY29tIiwiZXhwIjoxNTA1ODk0NDk2fQ.bS-UJLR_JY3HgXpGRZ8x-bCdTLoNecp9jBXYbcRhgdk
