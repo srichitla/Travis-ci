@@ -3,4 +3,4 @@ python:
   - "2.7"
 install:
  - requests==2.9.1
-script:
+script: python wrapper.py -n oBank.apk -appId 77bf5102757f6149cf3ca9b7254771ec -token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNyaWthbnRoIiwib3JpZ19pYXQiOjE0OTk0MTMwODksInVzZXJfaWQiOjE3LCJlbWFpbCI6InNyaWthbnRoLmNoaXRsYUBhY2NlbnR1cmUuY29tIiwiZXhwIjoxNTA1ODkzMDg5fQ.AAvZE3RM7mF5Ajhgd9XwZ6-3_HYnOCtJBJrfYAV6PuU
