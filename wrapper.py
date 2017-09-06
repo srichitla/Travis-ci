@@ -11,7 +11,7 @@ appID = sys.argv[4]
 opt3 = sys.argv[5]
 token = sys.argv[6]
 
-url = 'http://192.168.43.239:9090/api/scan_binary/'
+url = 'https://digitalsecurity.accenture.com/api/scan_binary/'
 
 path = appName
 
