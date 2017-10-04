@@ -12,7 +12,7 @@ opt3 = sys.argv[5]
 token = sys.argv[6]
 token = str(token).strip()
 
-url = 'https://digitalsecurity.accenture.com/api/scan_binary/'
+url = 'https://appsecure.accenture.com/api/scan_binary/'
 
 path = appName  #travis path 
 #path = '/Users/srikanth.chitla/Downloads/'+appName  # Jenkins path
